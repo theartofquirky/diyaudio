@@ -18,10 +18,12 @@ I really like the sound of this amp. It's clean and transparent but not clinical
 
 So a transformer swap and a general clean was enough to bring the amp back to 'as new' state. Due to its age a recap isn't necessary, all caps appeared to be in excellent shape.
 
-Verdict
+Verdict:
 * Thumbs up for repairability and quality
 * Thumbs up for sound
 * Thumbs up for looks
+
+Some images:
 
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0637-edited.jpg)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0657-edited.jpg)
