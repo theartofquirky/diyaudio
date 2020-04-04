@@ -33,6 +33,6 @@ The verdict:
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/1.JPG)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/2.jpg)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/3.jpg)
-![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/4.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/4a.jpg)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/5.JPG)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/6.JPG)
