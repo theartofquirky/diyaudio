@@ -29,4 +29,5 @@ The verdict:
 * Thumbs up for repairability, easy to fix even with its tricky volume pot
 * Thumbs up for sound, the main reason you will buy this amp
 
+
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/images/IMG_0790.jpg)
