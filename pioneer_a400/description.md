@@ -29,6 +29,7 @@ The verdict:
 * Thumbs up for repairability, easy to fix even with its tricky volume pot
 * Thumbs up for sound, the main reason you will buy this amp
 
+Some images:
 
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/1.JPG)
 ![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/2.jpg)
