@@ -20,10 +20,10 @@ So a transformer swap and a general clean was enough to bring the amp back to 'a
 
 Verdict
 * Thumbs up for repairability and quality
-* Thumbs up for sound
+* Thumbs up for sound
 * Thumbs up for looks
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0637-edited.jpg)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0657-edited.jpg)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0658-edited.jpg)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/denon_pma700ae/images/IMG_0672-edited.jpg)
