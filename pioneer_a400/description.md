@@ -30,4 +30,9 @@ The verdict:
 * Thumbs up for sound, the main reason you will buy this amp
 
 
-![alt text](https://github.com/theartofquirky/diyaudio/blob/master/images/IMG_0790.jpg)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/1.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/2.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/3.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/4.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/5.JPG)
+![alt text](https://github.com/theartofquirky/diyaudio/blob/master/pioneer_a400/images/6.JPG)
