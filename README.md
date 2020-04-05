@@ -1,3 +1,3 @@
 # diyaudio
 
-This repository contains various diy audio posts and information.
+This repository contains information about my diy audio projects.
