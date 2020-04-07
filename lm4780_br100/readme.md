@@ -18,6 +18,6 @@ That’s it for now, case and transformer are to be ordered… to be continued�
 
 Some images:
 
-![alt text](https://github.com/theartofquirky/diyaudio/blob/master/lm4780/images/IMG_0641-edited.jpg)
-![alt text](https://github.com/theartofquirky/diyaudio/blob/master/lm4780/images/IMG_0643-edited.jpg)
-![alt text](https://github.com/theartofquirky/diyaudio/blob/master/lm4780/images/IMG_0642-edited.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/lm4780_br100/images/01.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/lm4780_br100/images/02.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/lm4780_br100/images/03.jpg)
