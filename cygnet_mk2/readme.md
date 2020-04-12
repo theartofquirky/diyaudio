@@ -19,20 +19,20 @@ Some images:
 
 ![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/1.JPG)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/2.png)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/2.png)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/3.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/3.jpg)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/4.pdf)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/4.pdf)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/5.pdf)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/5.pdf)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/6.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/6.jpg)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/7.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/7.jpg)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/8.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/8.jpg)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/9.jpg)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/9.jpg)
 
-![alt text](https://github.com/thequirky/diyaudio/tree/master/cygnet_mk2/images/10.pdf)
+![alt text](https://github.com/thequirky/diyaudio/blob/master/cygnet_mk2/images/10.pdf)
