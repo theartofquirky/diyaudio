@@ -1,0 +1,25 @@
+Partlist exported from C:/Documents and Settings/Root/My Documents/eagle/Pass M2/M2ver1.0.sch at 1/9/2016 9:56:50 AM
+
+Qty Value         Device          Package         Parts                                              Description                                                      
+6                 W237-102        W237-102        IN-L, IN-R, OUT-L, OUT-R, VCC-L, VCC-R             WAGO SCREW CLAMP                                                 
+4   ,47 3W        R-EU_V235/17    V235/17         R13-L, R13-R, R14-L, R14-R                         RESISTOR, European symbol                                        
+4   10            R-EU_0309/10    0309/10         R3-L, R3-R, R4-L, R4-R                             RESISTOR, European symbol                                        
+8   100           R-EU_0309/10    0309/10         R8-L, R8-R, R9-L, R9-R, R10-L, R10-R, R12-L, R12-R RESISTOR, European symbol                                        
+2   100K          R-EU_0309/10    0309/10         R2-L, R2-R                                         RESISTOR, European symbol                                        
+2   10K           R-EU_0309/10    0309/10         R5-L, R5-R                                         RESISTOR, European symbol                                        
+2   10uF          CPOL-EUE2-5     E2-5            C2-L, C2-R                                         POLARIZED CAPACITOR, European symbol                             
+2   1K            R-EU_0309/10    0309/10         R1-L, R1-R                                         RESISTOR, European symbol                                        
+6   1N4148DO35-7  1N4148DO35-7    DO35-7          D1-L, D1-R, D2-L, D2-R, D3-L, D3-R                 DIODE                                                            
+2   1uF           C-EU075-032X103 C075-032X103    C4-L, C4-R                                         CAPACITOR, European symbol                                       
+2   221           R-EU_0309/10    0309/10         R11-L, R11-R                                       RESISTOR, European symbol                                        
+2   2SJ74         2SJ74           TO-92           Q4-L, Q4-R                                                                                                          
+2   2SK170        2SK170          TO-92           Q3-L, Q3-R                                                                                                          
+2   3300uF        CPOL-EUE10-25   EB25D           C3-L, C3-R                                         POLARIZED CAPACITOR, European symbol                             
+4   47K           R-EU_0309/10    0309/10         R6-L, R6-R, R7-L, R7-R                             RESISTOR, European symbol                                        
+2   4N35          4N35            DIL06           Q5-L, Q5-R                                         MOTOROLA OPTO COUPLER                                            
+2   5K            R-TRIMM3296X    RTRIM3296X      P1-L, P1-R                                         Trimm resistor                                                   
+2   680pF         C-EU050-025X075 C050-025X075    C1-L, C1-R                                         CAPACITOR, European symbol                                       
+2   ENCOR_600/15K ENCOR_600/15K   EDCOR_PC600/15K T1-L, T1-R                                                                                                          
+2   IRFP240       IRFP240         TO247BV         Q1-L, Q1-R                                         HEXFET Power MosFet                                              
+2   IRFP9240      IRFP9240        TO247BV         Q2-L, Q2-R                                         http://www.datasheetcatalog.org/datasheet/fairchild/IRFP9240.pdf 
+4   LM385_1V2_TI  LM385_1V2_TI    TO92-BCE        Q6-L, Q6-R, Q7-L, Q7-R                                                                                              
